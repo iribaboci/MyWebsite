@@ -1,0 +1,175 @@
+{
+    "basics": {
+      "name": "Tahir Baboçi",
+      "label": "Professional Software Engineer at AutoScout24",
+      "email": "tahirbaboci96@gmail.com",
+      "website": "tahirbaboci.com",
+      "summary": "I am an innovative Software engineer, who has always been looking for new opportunities and experiences. \nI am a Scala Enthusiastic. Since one year I have been programming and modelling domain in functional way.\t                                                  \nQuickly learn and master new technologies; successful working in both team and self-directed settings.",
+      "location": {
+        "countryCode": "DE",
+        "address": {
+            "City": "Munich",
+            "Country": "Germany"
+        }
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "tahir-baboçi-44a739131",
+          "url": "https://www.linkedin.com/in/tahir-baboçi-44a739131/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "AutoScout24 GmbH",
+        "endDate": "",
+        "highlights": [
+            "I migrated some of the service or team owned from datacenter to AWS cloud based platform.",
+            "Added different features to Listing Creation API",
+            "Supported clients with different requests while the whole traffic of creating a listing in autoscout24 was moving to the API our team was responsible.",
+            "Reducing tech debt and cost of AWS."
+        ],
+        "position": "Software Engineer",
+        "startDate": "2021-01-31",
+        "website": "https://www.linkedin.com/company/35747"
+      },
+      {
+        "company": "AutoScout24 GmbH",
+        "endDate": "2020-12-31",
+        "highlights": [
+            "I started working in a team which was responsible for core services of the company like messaging, identity and images. Some of services are legacy service where I worked to maintain these services and migrate to new shiny Scala services",
+            "Migration from datacenter to AWS cloud services",
+            "New concepts I learned and worked with :",
+            " - Scala, Functional Programming",
+            " - Microservices",
+            " - Continues Delivery, Continues Integration",
+            " - Amazon Cloud Web Services",
+            " - Domain Model Design"
+        ],
+        "position": "Junior Software Engineer",
+        "startDate": "2019-11-30",
+        "website": "https://www.linkedin.com/company/35747"
+      },
+      {
+        "company": "Rohde & Schwarz",
+        "endDate": "2019-08-31",
+        "highlights": [
+            "C#, .NET, MySql, PostgreSql"
+        ],
+        "position": "Internship Software Engineer",
+        "startDate": "2019-03-31",
+        "website": "https://www.linkedin.com/company/7054"
+      },
+      {
+        "company": "Arvato Financial Solutions",
+        "endDate": "2018-09-30",
+        "highlights": [
+            "Java, Java EE, Docker, Linux"
+        ],
+        "position": "Internship Software Engineer",
+        "startDate": "2018-07-31",
+        "website": "https://www.linkedin.com/company/774811"
+      },
+      {
+        "company": "Kennedy Concepts, Inc.",
+        "endDate": "2017-09-30",
+        "highlights": [
+            "Work and Travel program Summer 2017"
+        ],
+        "position": "Waiter",
+        "startDate": "2017-06-30",
+        "website": "https://www.linkedin.com/company/6645634"
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "Celal Bayar Üniversitesi",
+        "area": "Computer Software Engineering",
+        "studyType": "Bachelor’s Degree",
+        "startDate": "2015-12-31",
+        "endDate": "2019-12-31",
+        "gpa": "2.97/4"
+      },
+      {
+        "institution": "Politécnico de Coimbra",
+        "area": "Computer Software Engineering",
+        "studyType": "Bachelor's degree",
+        "startDate": "2018-12-31",
+        "endDate": "2018-12-31",
+        "gpa": "3.5/4"
+      }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "keywords": [
+            "Scala",
+            "Java",
+            "Typescript"
+        ]
+      },
+      {
+        "name": "Programming Paradigms",
+        "keywords": [
+            "Functional Programming",
+            "Object Oriented Programming"
+        ]
+      },
+      {
+        "name": "Tools",
+        "keywords": [
+            "AWS",
+            "Docker",
+            "Akka",
+            "Play Framework",
+            "Kafka",
+            "Datadog",
+            "Jenkins",
+            "Kibana",
+            "Spring",
+            "MySql",
+            "PostgreSql",
+            "Oracle"
+
+        ]
+      },
+      {
+        "name": "Methods",
+        "level": "",
+        "keywords": [
+            "Agile",
+            "Scrum",
+            "Kanban",
+            "Software Testing/TDD",
+            "CI/CD",
+            "Monitoring",
+            "Design Patterns"
+
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Albanian",
+        "fluency": "Native Speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Full professional proficiency"
+      },
+      {
+        "language": "Turkish",
+        "fluency": "Native or bilingual proficiency"
+      },
+      {
+        "language": "German",
+        "fluency": "Limited working proficiency"
+      }
+    ],
+    "interests": [],
+    "references": []
+  }
