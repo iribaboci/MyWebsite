@@ -12,6 +12,12 @@
             "Country": "Germany"
         }
       },
+      "interests": [
+        "Reading",
+        "Sports (football, Basketball, martial arts, hiking, mountain biking)",
+        "Technology",
+        "Learning foreign languages"
+      ],
       "profiles": [
         {
           "network": "LinkedIn",
@@ -82,7 +88,6 @@
         "website": "https://www.linkedin.com/company/6645634"
       }
     ],
-    "volunteer": [],
     "education": [
       {
         "institution": "Celal Bayar Üniversitesi",
@@ -101,7 +106,47 @@
         "gpa": "3.5/4"
       }
     ],
-    "awards": [],
+    "projects": [
+        {
+            "url": "",
+            "keywords": [
+                "Java",
+                "WebSocket",
+                "Android"
+            ],
+            "name": "Online Monopoly Android Game",
+            "description": "This is a project I took part in Software Engineering course at Polytechnic Institute of Coimbra"
+        },
+        {
+            "url": "https://github.com/iribaboci/multi-client-chat",
+            "keywords": [
+                "Java",
+                "Socket Programming",
+                "Server/Client"
+            ],
+            "name": "Multi-Client Chat System",
+            "description": "We developed this chat system during my studies as a project of Advanced Java Programming course."
+        },
+        {
+            "url": "https://github.com/iribaboci/cheese-maze",
+            "keywords": [
+                "C#",
+                "Desktop Application"
+            ],
+            "name": "Cheese maze",
+            "description": "This was one of my first project in Object Oriented Programming, this is a Cheese Maze program which I developed a game which mouse will try to find the cheese in a maze by itself."
+        },
+        {
+            "url": "https://github.com/iribaboci/scrumboard",
+            "keywords": [
+                "C#",
+                "Unity Game Engine",
+                "Augmented Reality"
+            ],
+            "name": "Agile Scrum Board",
+            "description": "This is my Bachelor Thesis project, I had the idea to do standup dailys remote using AR scrum board to make the experience of developers more interactive with each other."
+        }
+    ],
     "publications": [],
     "skills": [
       {
@@ -144,6 +189,7 @@
             "Agile",
             "Scrum",
             "Kanban",
+            "DevOps",
             "Software Testing/TDD",
             "CI/CD",
             "Monitoring",
@@ -169,7 +215,5 @@
         "language": "German",
         "fluency": "Limited working proficiency"
       }
-    ],
-    "interests": [],
-    "references": []
+    ]
   }
